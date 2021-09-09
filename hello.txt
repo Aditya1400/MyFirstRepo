@@ -2,3 +2,5 @@ hello Bhakti
 checking .gitignore
 
 16 October 1999
+this line makes a difference
+this line shows that it is in unsatge state
