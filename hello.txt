@@ -1,3 +1,3 @@
-hello Bhakti
+hello Bhakti Dua
 checking .gitignore
 
