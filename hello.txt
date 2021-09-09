@@ -1,3 +1,4 @@
-hello Bhakti Dua
+hello Bhakti
 checking .gitignore
 
+16 October 1999
